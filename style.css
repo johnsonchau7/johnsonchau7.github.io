@@ -1,4 +1,7 @@
-.card-img-top.img-fluid {
-    width: 80rem,
-    height: 23rem,
+.card:hover{
+    transform: scale(1.02);
+}
+
+.card{
+  transition:.3s;
 }
